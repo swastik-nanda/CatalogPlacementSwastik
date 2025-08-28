@@ -1,6 +1,3 @@
-CatalogPlacements
-Overview
-This project reads a set of polynomial roots from a JSON file where the y-values are encoded in different bases. It decodes these values and calculates a secret constant term c of the polynomial using Lagrange interpolation.
 
 Features
 Decodes large numbers from various bases using BigInteger.
